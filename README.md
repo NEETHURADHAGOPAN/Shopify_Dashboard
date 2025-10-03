@@ -52,7 +52,8 @@ Detect customer preferences across regions or campaigns.
 Determine which product types generate the highest revenue and order volume.
 Understand how customer engagement varies across different product categories.
 
-
+## Dashboard Preview
+![Dashboard Screenshot](https://github.com/NEETHURADHAGOPAN/Shopify_Dashboard/blob/main/Shopify_Dashboard.pdf)
 
 
 

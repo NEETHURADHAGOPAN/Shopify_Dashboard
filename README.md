@@ -1,5 +1,5 @@
 # SHOPIFY SALES AND CUSTOMER FUNNEL REPORT
-              ![Shopify Logo](https://github.com/NEETHURADHAGOPAN/Shopify_Dashboard/blob/main/shopify.png)
+![Shopify Logo](https://github.com/NEETHURADHAGOPAN/Shopify_Dashboard/blob/main/shopify.png)
 # Overview
 The goal of this project is to analyze Shopify sales data in Power BI to uncover meaningful insights into transaction performance, customer purchasing behavior, and long-term customer value. By designing an interactive dashboard, the objective is to help stakeholders identify patterns in revenue generation, customer retention, and engagement trends to support data-driven decision-making.
 
